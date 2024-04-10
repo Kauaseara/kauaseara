@@ -6,7 +6,7 @@
 
 * Blockchain:
   <img src="https://skillicons.dev/icons?i=solidity,rust,C" />
-  (https://www.svgrepo.com/svg/349356/ethereum)
+  [![Typing SVG](https://www.svgrepo.com/svg/349356/ethereum)]
 
 * Frontend:
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,bootstrap,tailwind,threejs,d3,react,redux,nextjs,vue,vuetify,angular,babel,webpack" />
