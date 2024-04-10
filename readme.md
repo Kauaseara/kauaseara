@@ -4,9 +4,8 @@
 
 - Blockchain:
   <img src="https://skillicons.dev/icons?i=solidity,rust,C" />
-  ![Typing SVG](https://www.svgrepo.com/show/303146/ethereum-logo.svg)
-  ![Typing SVG](https://www.svgrepo.com/show/470684/solana.svg)
-
+  <img src="https://www.svgrepo.com/show/303146/ethereum-logo.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/470684/solana.svg" width="40"/>
 - Frontend:
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,bootstrap,tailwind,threejs,d3,react,redux,nextjs,vue,vuetify,angular,babel,webpack" />
 
@@ -14,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=php,nodejs,laravel,express,py,c,cpp,cs,qt" />
 
 - Database
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase" />/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase" />
 
 - Mobile
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,react" />
